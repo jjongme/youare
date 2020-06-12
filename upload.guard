@@ -1,0 +1,10 @@
+
+git init
+
+--다음부터는 아래만 실행
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/jjongme/youare.git
+
+git remote -v
+git push -u origin master
